@@ -124,6 +124,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 ## Final Project
 
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
+2. [Room Temp Control](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
 
 ## Office Hours
 ###### Wendy
